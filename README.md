@@ -1,6 +1,6 @@
-# AngTim
+# Todo
 
-This project was generated with [Angular CLI](https://github.com/angular/angular-cli) version 9.1.0.
+This project was generated with [Angular CLI](https://github.com/angular/angular-cli) version 8.3.3.
 
 ## Development server
 
